@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "imobot.username",
+      "type": "java.lang.String",
+      "description": "Description for imobot.username."
+    },
+    {
+      "name": "imobot.token",
+      "type": "java.lang.String",
+      "description": "Description for imobot.token."
+    },
+    {
+      "name": "imobot.weatherapi",
+      "type": "java.lang.String",
+      "description": "Description for imobot.weatherapi."
+    }
+  ] }

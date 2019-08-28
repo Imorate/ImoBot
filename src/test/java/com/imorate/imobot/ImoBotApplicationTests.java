@@ -1,0 +1,13 @@
+package com.imorate.imobot;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ImoBotApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
