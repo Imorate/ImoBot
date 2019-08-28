@@ -22,7 +22,7 @@ Navigate to `application.properties` and add your bot `username`, `api token` an
 I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Imorate/ImoBot/tags).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Powered by Intellij idea
 ![Intellij idea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/75px-IntelliJ_IDEA_Logo.svg.png "ImoBot v1.0.0")
