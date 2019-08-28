@@ -16,7 +16,6 @@ Navigate to `application.properties` and add your bot `username`, `api token` an
 * [TelegramBots](https://github.com/rubenlagus/TelegramBots) - TelegramBots repository
 * [Unirest](http://unirest.io) - Lightweight HTTP Request Client Libraries
 * [Emoji-Java](https://github.com/vdurmont/emoji-java) - Lightweight java library for emojies
-* [TelegramBots](https://github.com/rubenlagus/TelegramBots) - TelegramBots repository
 
 ## Versioning
 I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Imorate/ImoBot/tags).
